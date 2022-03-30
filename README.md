@@ -8,7 +8,7 @@ CodingExercise
   |
   |--- out/production/CodingExercise   (Ignore this folder it contains .class files)
   |
-  **|--- src    (All java code)
+  |--- src    (All java code)
   |     |
   |     |--- com/accenture ( Main project package )
   |     |       |
@@ -19,7 +19,7 @@ CodingExercise
   |     |
   |     |--- mybank         (Exercise 4 & 5)
   |     |--- mycontribution (Exercise 6)
-  |     |--- myexception    (Exercise 7)**
+  |     |--- myexception    (Exercise 7)
   |
   |
   |--- CodingExercises.iml  (Ignore)
