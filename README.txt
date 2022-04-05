@@ -1,6 +1,9 @@
 # ATCI-SoT-
 
-All the Java codes and exercise are in /CodingExercise/src directory
+[WARNING] : ShoppinCart : Please change the filepath of "store-items.csv" and "receipt.txt" when running localhost
+            To change, navigate to "ShoppingCart/src/com/accenture/shopping/project/Store.java"
+                1. In method "shop() [Line: 111]" -> readStoreItem(`your_full_file_path_for_store-items.csv`)
+                2. In method "shop() [Line: 144]" -> saveReceiptToFile(`your_full_file_path_for_receipt.txt`)
 
 # Folder Structure and Exercise Location
 
@@ -31,5 +34,9 @@ All the Java codes and exercise are in /CodingExercise/src directory
 |     |--- target   (Exercise 8 : Junit Test file)
 |     |--- pom.xml
 |
+|
+|---ShoppingCart  (Exercise given in POD 1) 
+|   [WARNING] : Please change the filepath of "store-items.csv" and "receipt.txt" when running localhost. (Check above for details)
+|   
 |
 |---README.txt
